@@ -10,3 +10,7 @@
 	path = sources/meta-raspberrypi
 	url = https://git.yoctoproject.org/meta-raspberrypi
 	branch = scarthgap
+[submodule "sources/meta-qt6"]
+	path = sources/meta-qt6
+	url = https://code.qt.io/yocto/meta-qt6.git
+	branch = 6.8
