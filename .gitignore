@@ -1,0 +1,9 @@
+### Visual studio code ###
+.vscode
+.codex
+.agents
+
+### Yocto ###
+build*/*
+!build*/conf/
+!build*/conf/**
