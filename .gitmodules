@@ -14,6 +14,6 @@
 	path = sources/meta-qt6
 	url = https://code.qt.io/yocto/meta-qt6.git
 	branch = 6.8
-[submodule "sources/meta-rpi4-qt6"]
-	path = sources/meta-rpi4-qt6
+[submodule "sources/meta-rpi4-qt6-template"]
+	path = sources/meta-rpi4-qt6-template
 	url = https://github.com/MainForm/meta-rpi4-qt6-template
